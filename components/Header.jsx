@@ -16,7 +16,7 @@ const Header = ({ setTodos, todos }) => {
             setTodo("")
         }
         else {
-            alert("Xiyar Neynirsen ")
+            alert("Bos Buraxila Bilmez ")
         }
     }
 
